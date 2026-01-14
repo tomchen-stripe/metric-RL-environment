@@ -13,7 +13,7 @@ Both the explorer and validator run in their own docker container to isolate the
 
 NOTE: For the explorer, I needed to mount `/pay` for `claude` to work in the docker container (it needs access to `sc-2fa`), but I added instructions in `CLAUDE.md` to prevent it from accessing `/pay`. You can also verify in Claude logs that it does not access that repo.
 
-## Installation
+# Installation
 
 0. git clone this repo onto a devbox
 
@@ -36,12 +36,12 @@ docker compose up --build -d
 docker exec -it explorer bash
 ```
 
-## Run Claude Code in an isolated container:
+4. Run claude
 ```
 claude --dangerously-skip-permissions
 ```
 
-## Prompt Claude to reverse engineer the SQL for a Stripe metric (e.g. mrr):
+5. Run a prompt containing requirements for the metric to reverse engineer
 ```
 "read prompts/mrr.md and follow it"
 ```
