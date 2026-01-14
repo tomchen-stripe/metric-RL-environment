@@ -1,6 +1,6 @@
 # Use an agent to reverse engineer how Stripe calculates a metric (e.g. MRR)
 
-This project sets up a reinforcement learning (RL) environment for an AI agent like Claude Code to reverse engineer how Stripe calculates a metric like MRR using two isolated containers:
+This project sets up a reinforcement learning (RL) environment for an AI agent like Claude Code to reverse engineer how Stripe calculates a metric like MRR using two isolated Docker containers:
 
 1. The "explorer" which has access to:
    - a requirements prompt ([explorer/prompts/mrr.md](explorer/prompts/mrr.md))
