@@ -6,7 +6,6 @@ This project sets up a reinforcement learning (RL) environment for an AI agent l
    - a requirements prompt ([explorer/prompts/mrr.md](explorer/prompts/mrr.md))
    - sigma client to query Sigma API ([sigma_client.rb](explorer/sigma_client.rb))
    - sigma table schemas ([sigma_table_schemas.json](explorer/sigma_table_schemas.json))
-   - a prompt describing the requirements for the metric ([explorer/prompts/mrr.md](explorer/prompts/mrr.md))
 2. The "validator" that returns pass/fail to the explorer based on whether the SQL query that it is coming up with matches the results Stripe returns from Sigma Templates and Sigma API
 
 Both the explorer and validator run in their own docker container to isolate them from finding a way to access the answers (Sigma Template for MRR).
