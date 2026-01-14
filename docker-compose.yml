@@ -1,0 +1,58 @@
+version: '3.8'
+
+services:
+  validator:
+    build:
+      context: ./validator
+      dockerfile: Dockerfile
+    container_name: validator
+    volumes:
+      - /usr:/usr:ro
+      - /lib:/lib:ro
+    ports:
+      - "3000:3000"
+    networks:
+      - metric-network
+
+  explorer:
+    build:
+      context: ./explorer
+      dockerfile: Dockerfile
+    container_name: explorer
+    volumes:
+      - ./explorer:/workspace
+      # Mount host's entire home directory at same path
+      - /home/tomchen:/home/tomchen
+      # Mount /tmp and /pay for wrapper sessions
+      - /tmp:/tmp
+      - /pay:/pay
+      # Mount deploy directory for claude binary
+      - /deploy:/deploy:ro
+      # Mount entire /usr and /lib for host binaries
+      - /usr:/usr:ro
+      - /lib:/lib:ro
+      # Mount etc for stripe config and certs
+      - /etc:/etc:ro
+    user: "50318:9000"
+    environment:
+      - VALIDATOR_URL=http://localhost:3000
+      - HOME=/home/tomchen
+      - PATH=/deploy/claude-wrapper-hosts/current/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+      - STRIPE_CLAUDE_IS_DEVBOX=1
+      - STRIPE_CLAUDE_LITELLM=1
+      - STRIPE_USER=tomchen
+      - ANTHROPIC_AUTH_TOKEN=use_case=claude-code
+      - http_proxy=http://dynamic-egress-proxy.service.envoy:10071
+      - https_proxy=http://dynamic-egress-proxy.service.envoy:10071
+      - no_proxy=.consul,.corp.stripe.com,.deploy.stripe.net,.envoy,.s3.us-west-2.amazonaws.com,.service.test,.serviceregistry,.stripe.build,.stripe.io,.stripe.me,10.0.0.0/8,127.0.0.0/8,127.0.0.1,169.254.169.254,172.16.0.0/12,192.168.0.0/16,anysphere-binaries.s3.us-east-1.amazonaws.com,localhost,s3-us-west-2.amazonaws.com,s3.us-west-2.amazonaws.com
+    depends_on:
+      - validator
+    network_mode: host
+    userns_mode: host
+    pid: host
+    stdin_open: true
+    tty: true
+
+networks:
+  metric-network:
+    driver: bridge

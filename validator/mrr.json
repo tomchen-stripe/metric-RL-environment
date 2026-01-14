@@ -1,0 +1,114 @@
+{
+    "metric": "mrr",
+    "grain": "month",
+    "data": [
+      {
+        "month_end": "2025-12-31",
+        "total_mrr_in_usd": "1110902.02"
+      },
+      {
+        "month_end": "2025-11-30",
+        "total_mrr_in_usd": "1110902.02"
+      },
+      {
+        "month_end": "2025-10-31",
+        "total_mrr_in_usd": "1111015.65"
+      },
+      {
+        "month_end": "2025-09-30",
+        "total_mrr_in_usd": "1111193.98"
+      },
+      {
+        "month_end": "2025-08-31",
+        "total_mrr_in_usd": "2111138.24"
+      },
+      {
+        "month_end": "2025-07-31",
+        "total_mrr_in_usd": "2111026.09"
+      },
+      {
+        "month_end": "2025-06-30",
+        "total_mrr_in_usd": "2110939.86"
+      },
+      {
+        "month_end": "2025-05-31",
+        "total_mrr_in_usd": "2111366.42"
+      },
+      {
+        "month_end": "2025-04-30",
+        "total_mrr_in_usd": "2119352.07"
+      },
+      {
+        "month_end": "2025-03-31",
+        "total_mrr_in_usd": "1869337.76"
+      },
+      {
+        "month_end": "2025-02-28",
+        "total_mrr_in_usd": "1869293.08"
+      },
+      {
+        "month_end": "2025-01-31",
+        "total_mrr_in_usd": "1869539.58"
+      },
+      {
+        "month_end": "2024-12-31",
+        "total_mrr_in_usd": "1994922.92"
+      },
+      {
+        "month_end": "2024-11-30",
+        "total_mrr_in_usd": "1989570.42"
+      },
+      {
+        "month_end": "2024-10-31",
+        "total_mrr_in_usd": "1860007.91"
+      },
+      {
+        "month_end": "2024-09-30",
+        "total_mrr_in_usd": "1000704.16"
+      },
+      {
+        "month_end": "2024-08-31",
+        "total_mrr_in_usd": "1000704.16"
+      },
+      {
+        "month_end": "2024-07-31",
+        "total_mrr_in_usd": "1000754.16"
+      },
+      {
+        "month_end": "2024-06-30",
+        "total_mrr_in_usd": "1002161.49"
+      },
+      {
+        "month_end": "2024-05-31",
+        "total_mrr_in_usd": "1002161.49"
+      },
+      {
+        "month_end": "2024-04-30",
+        "total_mrr_in_usd": "1000721.49"
+      },
+      {
+        "month_end": "2024-03-31",
+        "total_mrr_in_usd": "1000651.49"
+      },
+      {
+        "month_end": "2024-02-29",
+        "total_mrr_in_usd": "1000660.99"
+      },
+      {
+        "month_end": "2024-01-31",
+        "total_mrr_in_usd": "1000660.99"
+      },
+      {
+        "month_end": "2023-12-31",
+        "total_mrr_in_usd": "1000606.02"
+      }
+    ],
+    "columns": [
+      "month_end",
+      "total_mrr_in_usd"
+    ],
+    "pivot": {
+      "colKey": "month_end",
+      "valueKey": "total_mrr_in_usd"
+    }
+  }

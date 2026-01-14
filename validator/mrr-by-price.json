@@ -1,0 +1,1023 @@
+{
+    "metric": "mrr",
+    "dimensions": [
+      "price"
+    ],
+    "grain": "month",
+    "filter": "top5",
+    "data": [
+      {
+        "product_name": "GIG Test",
+        "price_nickname": "",
+        "month_end": "2025-12-31",
+        "product_id": "prod_QegR0uCh4xk4eL",
+        "price_id": "price_0PnN4P589O8KAxCGrOUYZ8wj",
+        "total_mrr_in_usd": "166.66"
+      },
+      {
+        "product_name": "GIG Test",
+        "price_nickname": "",
+        "month_end": "2025-11-30",
+        "product_id": "prod_QegR0uCh4xk4eL",
+        "price_id": "price_0PnN4P589O8KAxCGrOUYZ8wj",
+        "total_mrr_in_usd": "166.66"
+      },
+      {
+        "product_name": "GIG Test",
+        "price_nickname": "",
+        "month_end": "2025-10-31",
+        "product_id": "prod_QegR0uCh4xk4eL",
+        "price_id": "price_0PnN4P589O8KAxCGrOUYZ8wj",
+        "total_mrr_in_usd": "166.66"
+      },
+      {
+        "product_name": "GIG Test",
+        "price_nickname": "",
+        "month_end": "2025-09-30",
+        "product_id": "prod_QegR0uCh4xk4eL",
+        "price_id": "price_0PnN4P589O8KAxCGrOUYZ8wj",
+        "total_mrr_in_usd": "166.66"
+      },
+      {
+        "product_name": "GIG Test",
+        "price_nickname": "",
+        "month_end": "2025-08-31",
+        "product_id": "prod_QegR0uCh4xk4eL",
+        "price_id": "price_0PnN4P589O8KAxCGrOUYZ8wj",
+        "total_mrr_in_usd": "166.66"
+      },
+      {
+        "product_name": "GIG Test",
+        "price_nickname": "",
+        "month_end": "2025-07-31",
+        "product_id": "prod_QegR0uCh4xk4eL",
+        "price_id": "price_0PnN4P589O8KAxCGrOUYZ8wj",
+        "total_mrr_in_usd": ""
+      },
+      {
+        "product_name": "GIG Test",
+        "price_nickname": "",
+        "month_end": "2025-06-30",
+        "product_id": "prod_QegR0uCh4xk4eL",
+        "price_id": "price_0PnN4P589O8KAxCGrOUYZ8wj",
+        "total_mrr_in_usd": ""
+      },
+      {
+        "product_name": "GIG Test",
+        "price_nickname": "",
+        "month_end": "2025-05-31",
+        "product_id": "prod_QegR0uCh4xk4eL",
+        "price_id": "price_0PnN4P589O8KAxCGrOUYZ8wj",
+        "total_mrr_in_usd": ""
+      },
+      {
+        "product_name": "GIG Test",
+        "price_nickname": "",
+        "month_end": "2025-04-30",
+        "product_id": "prod_QegR0uCh4xk4eL",
+        "price_id": "price_0PnN4P589O8KAxCGrOUYZ8wj",
+        "total_mrr_in_usd": ""
+      },
+      {
+        "product_name": "GIG Test",
+        "price_nickname": "",
+        "month_end": "2025-03-31",
+        "product_id": "prod_QegR0uCh4xk4eL",
+        "price_id": "price_0PnN4P589O8KAxCGrOUYZ8wj",
+        "total_mrr_in_usd": ""
+      },
+      {
+        "product_name": "GIG Test",
+        "price_nickname": "",
+        "month_end": "2025-02-28",
+        "product_id": "prod_QegR0uCh4xk4eL",
+        "price_id": "price_0PnN4P589O8KAxCGrOUYZ8wj",
+        "total_mrr_in_usd": ""
+      },
+      {
+        "product_name": "GIG Test",
+        "price_nickname": "",
+        "month_end": "2025-01-31",
+        "product_id": "prod_QegR0uCh4xk4eL",
+        "price_id": "price_0PnN4P589O8KAxCGrOUYZ8wj",
+        "total_mrr_in_usd": ""
+      },
+      {
+        "product_name": "GIG Test",
+        "price_nickname": "",
+        "month_end": "2024-12-31",
+        "product_id": "prod_QegR0uCh4xk4eL",
+        "price_id": "price_0PnN4P589O8KAxCGrOUYZ8wj",
+        "total_mrr_in_usd": ""
+      },
+      {
+        "product_name": "GIG Test",
+        "price_nickname": "",
+        "month_end": "2024-11-30",
+        "product_id": "prod_QegR0uCh4xk4eL",
+        "price_id": "price_0PnN4P589O8KAxCGrOUYZ8wj",
+        "total_mrr_in_usd": ""
+      },
+      {
+        "product_name": "GIG Test",
+        "price_nickname": "",
+        "month_end": "2024-10-31",
+        "product_id": "prod_QegR0uCh4xk4eL",
+        "price_id": "price_0PnN4P589O8KAxCGrOUYZ8wj",
+        "total_mrr_in_usd": ""
+      },
+      {
+        "product_name": "GIG Test",
+        "price_nickname": "",
+        "month_end": "2024-09-30",
+        "product_id": "prod_QegR0uCh4xk4eL",
+        "price_id": "price_0PnN4P589O8KAxCGrOUYZ8wj",
+        "total_mrr_in_usd": ""
+      },
+      {
+        "product_name": "GIG Test",
+        "price_nickname": "",
+        "month_end": "2024-08-31",
+        "product_id": "prod_QegR0uCh4xk4eL",
+        "price_id": "price_0PnN4P589O8KAxCGrOUYZ8wj",
+        "total_mrr_in_usd": ""
+      },
+      {
+        "product_name": "GIG Test",
+        "price_nickname": "",
+        "month_end": "2024-07-31",
+        "product_id": "prod_QegR0uCh4xk4eL",
+        "price_id": "price_0PnN4P589O8KAxCGrOUYZ8wj",
+        "total_mrr_in_usd": ""
+      },
+      {
+        "product_name": "GIG Test",
+        "price_nickname": "",
+        "month_end": "2024-06-30",
+        "product_id": "prod_QegR0uCh4xk4eL",
+        "price_id": "price_0PnN4P589O8KAxCGrOUYZ8wj",
+        "total_mrr_in_usd": ""
+      },
+      {
+        "product_name": "GIG Test",
+        "price_nickname": "",
+        "month_end": "2024-05-31",
+        "product_id": "prod_QegR0uCh4xk4eL",
+        "price_id": "price_0PnN4P589O8KAxCGrOUYZ8wj",
+        "total_mrr_in_usd": ""
+      },
+      {
+        "product_name": "GIG Test",
+        "price_nickname": "",
+        "month_end": "2024-04-30",
+        "product_id": "prod_QegR0uCh4xk4eL",
+        "price_id": "price_0PnN4P589O8KAxCGrOUYZ8wj",
+        "total_mrr_in_usd": ""
+      },
+      {
+        "product_name": "GIG Test",
+        "price_nickname": "",
+        "month_end": "2024-03-31",
+        "product_id": "prod_QegR0uCh4xk4eL",
+        "price_id": "price_0PnN4P589O8KAxCGrOUYZ8wj",
+        "total_mrr_in_usd": ""
+      },
+      {
+        "product_name": "GIG Test",
+        "price_nickname": "",
+        "month_end": "2024-02-29",
+        "product_id": "prod_QegR0uCh4xk4eL",
+        "price_id": "price_0PnN4P589O8KAxCGrOUYZ8wj",
+        "total_mrr_in_usd": ""
+      },
+      {
+        "product_name": "GIG Test",
+        "price_nickname": "",
+        "month_end": "2024-01-31",
+        "product_id": "prod_QegR0uCh4xk4eL",
+        "price_id": "price_0PnN4P589O8KAxCGrOUYZ8wj",
+        "total_mrr_in_usd": ""
+      },
+      {
+        "product_name": "GIG Test",
+        "price_nickname": "",
+        "month_end": "2023-12-31",
+        "product_id": "prod_QegR0uCh4xk4eL",
+        "price_id": "price_0PnN4P589O8KAxCGrOUYZ8wj",
+        "total_mrr_in_usd": ""
+      },
+      {
+        "product_name": "cookies",
+        "price_nickname": "",
+        "month_end": "2025-12-31",
+        "product_id": "prod_QuphaRVu0TRlVZ",
+        "price_id": "price_0Q301r589O8KAxCGgEa1DInK",
+        "total_mrr_in_usd": "625.00"
+      },
+      {
+        "product_name": "cookies",
+        "price_nickname": "",
+        "month_end": "2025-11-30",
+        "product_id": "prod_QuphaRVu0TRlVZ",
+        "price_id": "price_0Q301r589O8KAxCGgEa1DInK",
+        "total_mrr_in_usd": "625.00"
+      },
+      {
+        "product_name": "cookies",
+        "price_nickname": "",
+        "month_end": "2025-10-31",
+        "product_id": "prod_QuphaRVu0TRlVZ",
+        "price_id": "price_0Q301r589O8KAxCGgEa1DInK",
+        "total_mrr_in_usd": "625.00"
+      },
+      {
+        "product_name": "cookies",
+        "price_nickname": "",
+        "month_end": "2025-09-30",
+        "product_id": "prod_QuphaRVu0TRlVZ",
+        "price_id": "price_0Q301r589O8KAxCGgEa1DInK",
+        "total_mrr_in_usd": "625.00"
+      },
+      {
+        "product_name": "cookies",
+        "price_nickname": "",
+        "month_end": "2025-08-31",
+        "product_id": "prod_QuphaRVu0TRlVZ",
+        "price_id": "price_0Q301r589O8KAxCGgEa1DInK",
+        "total_mrr_in_usd": "625.00"
+      },
+      {
+        "product_name": "cookies",
+        "price_nickname": "",
+        "month_end": "2025-07-31",
+        "product_id": "prod_QuphaRVu0TRlVZ",
+        "price_id": "price_0Q301r589O8KAxCGgEa1DInK",
+        "total_mrr_in_usd": "625.00"
+      },
+      {
+        "product_name": "cookies",
+        "price_nickname": "",
+        "month_end": "2025-06-30",
+        "product_id": "prod_QuphaRVu0TRlVZ",
+        "price_id": "price_0Q301r589O8KAxCGgEa1DInK",
+        "total_mrr_in_usd": "625.00"
+      },
+      {
+        "product_name": "cookies",
+        "price_nickname": "",
+        "month_end": "2025-05-31",
+        "product_id": "prod_QuphaRVu0TRlVZ",
+        "price_id": "price_0Q301r589O8KAxCGgEa1DInK",
+        "total_mrr_in_usd": "631.25"
+      },
+      {
+        "product_name": "cookies",
+        "price_nickname": "",
+        "month_end": "2025-04-30",
+        "product_id": "prod_QuphaRVu0TRlVZ",
+        "price_id": "price_0Q301r589O8KAxCGgEa1DInK",
+        "total_mrr_in_usd": "631.25"
+      },
+      {
+        "product_name": "cookies",
+        "price_nickname": "",
+        "month_end": "2025-03-31",
+        "product_id": "prod_QuphaRVu0TRlVZ",
+        "price_id": "price_0Q301r589O8KAxCGgEa1DInK",
+        "total_mrr_in_usd": "631.25"
+      },
+      {
+        "product_name": "cookies",
+        "price_nickname": "",
+        "month_end": "2025-02-28",
+        "product_id": "prod_QuphaRVu0TRlVZ",
+        "price_id": "price_0Q301r589O8KAxCGgEa1DInK",
+        "total_mrr_in_usd": "631.25"
+      },
+      {
+        "product_name": "cookies",
+        "price_nickname": "",
+        "month_end": "2025-01-31",
+        "product_id": "prod_QuphaRVu0TRlVZ",
+        "price_id": "price_0Q301r589O8KAxCGgEa1DInK",
+        "total_mrr_in_usd": "631.25"
+      },
+      {
+        "product_name": "cookies",
+        "price_nickname": "",
+        "month_end": "2024-12-31",
+        "product_id": "prod_QuphaRVu0TRlVZ",
+        "price_id": "price_0Q301r589O8KAxCGgEa1DInK",
+        "total_mrr_in_usd": "631.25"
+      },
+      {
+        "product_name": "cookies",
+        "price_nickname": "",
+        "month_end": "2024-11-30",
+        "product_id": "prod_QuphaRVu0TRlVZ",
+        "price_id": "price_0Q301r589O8KAxCGgEa1DInK",
+        "total_mrr_in_usd": "631.25"
+      },
+      {
+        "product_name": "cookies",
+        "price_nickname": "",
+        "month_end": "2024-10-31",
+        "product_id": "prod_QuphaRVu0TRlVZ",
+        "price_id": "price_0Q301r589O8KAxCGgEa1DInK",
+        "total_mrr_in_usd": "631.25"
+      },
+      {
+        "product_name": "cookies",
+        "price_nickname": "",
+        "month_end": "2024-09-30",
+        "product_id": "prod_QuphaRVu0TRlVZ",
+        "price_id": "price_0Q301r589O8KAxCGgEa1DInK",
+        "total_mrr_in_usd": ""
+      },
+      {
+        "product_name": "cookies",
+        "price_nickname": "",
+        "month_end": "2024-08-31",
+        "product_id": "prod_QuphaRVu0TRlVZ",
+        "price_id": "price_0Q301r589O8KAxCGgEa1DInK",
+        "total_mrr_in_usd": ""
+      },
+      {
+        "product_name": "cookies",
+        "price_nickname": "",
+        "month_end": "2024-07-31",
+        "product_id": "prod_QuphaRVu0TRlVZ",
+        "price_id": "price_0Q301r589O8KAxCGgEa1DInK",
+        "total_mrr_in_usd": ""
+      },
+      {
+        "product_name": "cookies",
+        "price_nickname": "",
+        "month_end": "2024-06-30",
+        "product_id": "prod_QuphaRVu0TRlVZ",
+        "price_id": "price_0Q301r589O8KAxCGgEa1DInK",
+        "total_mrr_in_usd": ""
+      },
+      {
+        "product_name": "cookies",
+        "price_nickname": "",
+        "month_end": "2024-05-31",
+        "product_id": "prod_QuphaRVu0TRlVZ",
+        "price_id": "price_0Q301r589O8KAxCGgEa1DInK",
+        "total_mrr_in_usd": ""
+      },
+      {
+        "product_name": "cookies",
+        "price_nickname": "",
+        "month_end": "2024-04-30",
+        "product_id": "prod_QuphaRVu0TRlVZ",
+        "price_id": "price_0Q301r589O8KAxCGgEa1DInK",
+        "total_mrr_in_usd": ""
+      },
+      {
+        "product_name": "cookies",
+        "price_nickname": "",
+        "month_end": "2024-03-31",
+        "product_id": "prod_QuphaRVu0TRlVZ",
+        "price_id": "price_0Q301r589O8KAxCGgEa1DInK",
+        "total_mrr_in_usd": ""
+      },
+      {
+        "product_name": "cookies",
+        "price_nickname": "",
+        "month_end": "2024-02-29",
+        "product_id": "prod_QuphaRVu0TRlVZ",
+        "price_id": "price_0Q301r589O8KAxCGgEa1DInK",
+        "total_mrr_in_usd": ""
+      },
+      {
+        "product_name": "cookies",
+        "price_nickname": "",
+        "month_end": "2024-01-31",
+        "product_id": "prod_QuphaRVu0TRlVZ",
+        "price_id": "price_0Q301r589O8KAxCGgEa1DInK",
+        "total_mrr_in_usd": ""
+      },
+      {
+        "product_name": "cookies",
+        "price_nickname": "",
+        "month_end": "2023-12-31",
+        "product_id": "prod_QuphaRVu0TRlVZ",
+        "price_id": "price_0Q301r589O8KAxCGgEa1DInK",
+        "total_mrr_in_usd": ""
+      },
+      {
+        "product_name": "Wine ABC",
+        "price_nickname": "",
+        "month_end": "2025-12-31",
+        "product_id": "prod_QyBZXRkOsw5FSs",
+        "price_id": "price_0Q6FCT589O8KAxCGHy0HoboQ",
+        "total_mrr_in_usd": "1110000.00"
+      },
+      {
+        "product_name": "Wine ABC",
+        "price_nickname": "",
+        "month_end": "2025-11-30",
+        "product_id": "prod_QyBZXRkOsw5FSs",
+        "price_id": "price_0Q6FCT589O8KAxCGHy0HoboQ",
+        "total_mrr_in_usd": "1110000.00"
+      },
+      {
+        "product_name": "Wine ABC",
+        "price_nickname": "",
+        "month_end": "2025-10-31",
+        "product_id": "prod_QyBZXRkOsw5FSs",
+        "price_id": "price_0Q6FCT589O8KAxCGHy0HoboQ",
+        "total_mrr_in_usd": "1110000.00"
+      },
+      {
+        "product_name": "Wine ABC",
+        "price_nickname": "",
+        "month_end": "2025-09-30",
+        "product_id": "prod_QyBZXRkOsw5FSs",
+        "price_id": "price_0Q6FCT589O8KAxCGHy0HoboQ",
+        "total_mrr_in_usd": "1110000.00"
+      },
+      {
+        "product_name": "Wine ABC",
+        "price_nickname": "",
+        "month_end": "2025-08-31",
+        "product_id": "prod_QyBZXRkOsw5FSs",
+        "price_id": "price_0Q6FCT589O8KAxCGHy0HoboQ",
+        "total_mrr_in_usd": "1110000.00"
+      },
+      {
+        "product_name": "Wine ABC",
+        "price_nickname": "",
+        "month_end": "2025-07-31",
+        "product_id": "prod_QyBZXRkOsw5FSs",
+        "price_id": "price_0Q6FCT589O8KAxCGHy0HoboQ",
+        "total_mrr_in_usd": "1110050.00"
+      },
+      {
+        "product_name": "Wine ABC",
+        "price_nickname": "",
+        "month_end": "2025-06-30",
+        "product_id": "prod_QyBZXRkOsw5FSs",
+        "price_id": "price_0Q6FCT589O8KAxCGHy0HoboQ",
+        "total_mrr_in_usd": "1110050.00"
+      },
+      {
+        "product_name": "Wine ABC",
+        "price_nickname": "",
+        "month_end": "2025-05-31",
+        "product_id": "prod_QyBZXRkOsw5FSs",
+        "price_id": "price_0Q6FCT589O8KAxCGHy0HoboQ",
+        "total_mrr_in_usd": "1110050.00"
+      },
+      {
+        "product_name": "Wine ABC",
+        "price_nickname": "",
+        "month_end": "2025-04-30",
+        "product_id": "prod_QyBZXRkOsw5FSs",
+        "price_id": "price_0Q6FCT589O8KAxCGHy0HoboQ",
+        "total_mrr_in_usd": "1110050.00"
+      },
+      {
+        "product_name": "Wine ABC",
+        "price_nickname": "",
+        "month_end": "2025-03-31",
+        "product_id": "prod_QyBZXRkOsw5FSs",
+        "price_id": "price_0Q6FCT589O8KAxCGHy0HoboQ",
+        "total_mrr_in_usd": "860050.00"
+      },
+      {
+        "product_name": "Wine ABC",
+        "price_nickname": "",
+        "month_end": "2025-02-28",
+        "product_id": "prod_QyBZXRkOsw5FSs",
+        "price_id": "price_0Q6FCT589O8KAxCGHy0HoboQ",
+        "total_mrr_in_usd": "860050.00"
+      },
+      {
+        "product_name": "Wine ABC",
+        "price_nickname": "",
+        "month_end": "2025-01-31",
+        "product_id": "prod_QyBZXRkOsw5FSs",
+        "price_id": "price_0Q6FCT589O8KAxCGHy0HoboQ",
+        "total_mrr_in_usd": "860050.00"
+      },
+      {
+        "product_name": "Wine ABC",
+        "price_nickname": "",
+        "month_end": "2024-12-31",
+        "product_id": "prod_QyBZXRkOsw5FSs",
+        "price_id": "price_0Q6FCT589O8KAxCGHy0HoboQ",
+        "total_mrr_in_usd": "985050.00"
+      },
+      {
+        "product_name": "Wine ABC",
+        "price_nickname": "",
+        "month_end": "2024-11-30",
+        "product_id": "prod_QyBZXRkOsw5FSs",
+        "price_id": "price_0Q6FCT589O8KAxCGHy0HoboQ",
+        "total_mrr_in_usd": "983675.00"
+      },
+      {
+        "product_name": "Wine ABC",
+        "price_nickname": "",
+        "month_end": "2024-10-31",
+        "product_id": "prod_QyBZXRkOsw5FSs",
+        "price_id": "price_0Q6FCT589O8KAxCGHy0HoboQ",
+        "total_mrr_in_usd": "858662.50"
+      },
+      {
+        "product_name": "Wine ABC",
+        "price_nickname": "",
+        "month_end": "2024-09-30",
+        "product_id": "prod_QyBZXRkOsw5FSs",
+        "price_id": "price_0Q6FCT589O8KAxCGHy0HoboQ",
+        "total_mrr_in_usd": ""
+      },
+      {
+        "product_name": "Wine ABC",
+        "price_nickname": "",
+        "month_end": "2024-08-31",
+        "product_id": "prod_QyBZXRkOsw5FSs",
+        "price_id": "price_0Q6FCT589O8KAxCGHy0HoboQ",
+        "total_mrr_in_usd": ""
+      },
+      {
+        "product_name": "Wine ABC",
+        "price_nickname": "",
+        "month_end": "2024-07-31",
+        "product_id": "prod_QyBZXRkOsw5FSs",
+        "price_id": "price_0Q6FCT589O8KAxCGHy0HoboQ",
+        "total_mrr_in_usd": ""
+      },
+      {
+        "product_name": "Wine ABC",
+        "price_nickname": "",
+        "month_end": "2024-06-30",
+        "product_id": "prod_QyBZXRkOsw5FSs",
+        "price_id": "price_0Q6FCT589O8KAxCGHy0HoboQ",
+        "total_mrr_in_usd": ""
+      },
+      {
+        "product_name": "Wine ABC",
+        "price_nickname": "",
+        "month_end": "2024-05-31",
+        "product_id": "prod_QyBZXRkOsw5FSs",
+        "price_id": "price_0Q6FCT589O8KAxCGHy0HoboQ",
+        "total_mrr_in_usd": ""
+      },
+      {
+        "product_name": "Wine ABC",
+        "price_nickname": "",
+        "month_end": "2024-04-30",
+        "product_id": "prod_QyBZXRkOsw5FSs",
+        "price_id": "price_0Q6FCT589O8KAxCGHy0HoboQ",
+        "total_mrr_in_usd": ""
+      },
+      {
+        "product_name": "Wine ABC",
+        "price_nickname": "",
+        "month_end": "2024-03-31",
+        "product_id": "prod_QyBZXRkOsw5FSs",
+        "price_id": "price_0Q6FCT589O8KAxCGHy0HoboQ",
+        "total_mrr_in_usd": ""
+      },
+      {
+        "product_name": "Wine ABC",
+        "price_nickname": "",
+        "month_end": "2024-02-29",
+        "product_id": "prod_QyBZXRkOsw5FSs",
+        "price_id": "price_0Q6FCT589O8KAxCGHy0HoboQ",
+        "total_mrr_in_usd": ""
+      },
+      {
+        "product_name": "Wine ABC",
+        "price_nickname": "",
+        "month_end": "2024-01-31",
+        "product_id": "prod_QyBZXRkOsw5FSs",
+        "price_id": "price_0Q6FCT589O8KAxCGHy0HoboQ",
+        "total_mrr_in_usd": ""
+      },
+      {
+        "product_name": "Wine ABC",
+        "price_nickname": "",
+        "month_end": "2023-12-31",
+        "product_id": "prod_QyBZXRkOsw5FSs",
+        "price_id": "price_0Q6FCT589O8KAxCGHy0HoboQ",
+        "total_mrr_in_usd": ""
+      },
+      {
+        "product_name": "Wristband App Subscription",
+        "price_nickname": "",
+        "month_end": "2025-12-31",
+        "product_id": "prod_PuJ7xV43NTnTMf",
+        "price_id": "price_0P4UV8589O8KAxCGmnZSrr0n",
+        "total_mrr_in_usd": "20.00"
+      },
+      {
+        "product_name": "Wristband App Subscription",
+        "price_nickname": "",
+        "month_end": "2025-11-30",
+        "product_id": "prod_PuJ7xV43NTnTMf",
+        "price_id": "price_0P4UV8589O8KAxCGmnZSrr0n",
+        "total_mrr_in_usd": "20.00"
+      },
+      {
+        "product_name": "Wristband App Subscription",
+        "price_nickname": "",
+        "month_end": "2025-10-31",
+        "product_id": "prod_PuJ7xV43NTnTMf",
+        "price_id": "price_0P4UV8589O8KAxCGmnZSrr0n",
+        "total_mrr_in_usd": "20.00"
+      },
+      {
+        "product_name": "Wristband App Subscription",
+        "price_nickname": "",
+        "month_end": "2025-09-30",
+        "product_id": "prod_PuJ7xV43NTnTMf",
+        "price_id": "price_0P4UV8589O8KAxCGmnZSrr0n",
+        "total_mrr_in_usd": "20.00"
+      },
+      {
+        "product_name": "Wristband App Subscription",
+        "price_nickname": "",
+        "month_end": "2025-08-31",
+        "product_id": "prod_PuJ7xV43NTnTMf",
+        "price_id": "price_0P4UV8589O8KAxCGmnZSrr0n",
+        "total_mrr_in_usd": "20.00"
+      },
+      {
+        "product_name": "Wristband App Subscription",
+        "price_nickname": "",
+        "month_end": "2025-07-31",
+        "product_id": "prod_PuJ7xV43NTnTMf",
+        "price_id": "price_0P4UV8589O8KAxCGmnZSrr0n",
+        "total_mrr_in_usd": "20.00"
+      },
+      {
+        "product_name": "Wristband App Subscription",
+        "price_nickname": "",
+        "month_end": "2025-06-30",
+        "product_id": "prod_PuJ7xV43NTnTMf",
+        "price_id": "price_0P4UV8589O8KAxCGmnZSrr0n",
+        "total_mrr_in_usd": "20.00"
+      },
+      {
+        "product_name": "Wristband App Subscription",
+        "price_nickname": "",
+        "month_end": "2025-05-31",
+        "product_id": "prod_PuJ7xV43NTnTMf",
+        "price_id": "price_0P4UV8589O8KAxCGmnZSrr0n",
+        "total_mrr_in_usd": "20.00"
+      },
+      {
+        "product_name": "Wristband App Subscription",
+        "price_nickname": "",
+        "month_end": "2025-04-30",
+        "product_id": "prod_PuJ7xV43NTnTMf",
+        "price_id": "price_0P4UV8589O8KAxCGmnZSrr0n",
+        "total_mrr_in_usd": "20.00"
+      },
+      {
+        "product_name": "Wristband App Subscription",
+        "price_nickname": "",
+        "month_end": "2025-03-31",
+        "product_id": "prod_PuJ7xV43NTnTMf",
+        "price_id": "price_0P4UV8589O8KAxCGmnZSrr0n",
+        "total_mrr_in_usd": "20.00"
+      },
+      {
+        "product_name": "Wristband App Subscription",
+        "price_nickname": "",
+        "month_end": "2025-02-28",
+        "product_id": "prod_PuJ7xV43NTnTMf",
+        "price_id": "price_0P4UV8589O8KAxCGmnZSrr0n",
+        "total_mrr_in_usd": "20.00"
+      },
+      {
+        "product_name": "Wristband App Subscription",
+        "price_nickname": "",
+        "month_end": "2025-01-31",
+        "product_id": "prod_PuJ7xV43NTnTMf",
+        "price_id": "price_0P4UV8589O8KAxCGmnZSrr0n",
+        "total_mrr_in_usd": "20.00"
+      },
+      {
+        "product_name": "Wristband App Subscription",
+        "price_nickname": "",
+        "month_end": "2024-12-31",
+        "product_id": "prod_PuJ7xV43NTnTMf",
+        "price_id": "price_0P4UV8589O8KAxCGmnZSrr0n",
+        "total_mrr_in_usd": "20.00"
+      },
+      {
+        "product_name": "Wristband App Subscription",
+        "price_nickname": "",
+        "month_end": "2024-11-30",
+        "product_id": "prod_PuJ7xV43NTnTMf",
+        "price_id": "price_0P4UV8589O8KAxCGmnZSrr0n",
+        "total_mrr_in_usd": "20.00"
+      },
+      {
+        "product_name": "Wristband App Subscription",
+        "price_nickname": "",
+        "month_end": "2024-10-31",
+        "product_id": "prod_PuJ7xV43NTnTMf",
+        "price_id": "price_0P4UV8589O8KAxCGmnZSrr0n",
+        "total_mrr_in_usd": "20.00"
+      },
+      {
+        "product_name": "Wristband App Subscription",
+        "price_nickname": "",
+        "month_end": "2024-09-30",
+        "product_id": "prod_PuJ7xV43NTnTMf",
+        "price_id": "price_0P4UV8589O8KAxCGmnZSrr0n",
+        "total_mrr_in_usd": "20.00"
+      },
+      {
+        "product_name": "Wristband App Subscription",
+        "price_nickname": "",
+        "month_end": "2024-08-31",
+        "product_id": "prod_PuJ7xV43NTnTMf",
+        "price_id": "price_0P4UV8589O8KAxCGmnZSrr0n",
+        "total_mrr_in_usd": "20.00"
+      },
+      {
+        "product_name": "Wristband App Subscription",
+        "price_nickname": "",
+        "month_end": "2024-07-31",
+        "product_id": "prod_PuJ7xV43NTnTMf",
+        "price_id": "price_0P4UV8589O8KAxCGmnZSrr0n",
+        "total_mrr_in_usd": "20.00"
+      },
+      {
+        "product_name": "Wristband App Subscription",
+        "price_nickname": "",
+        "month_end": "2024-06-30",
+        "product_id": "prod_PuJ7xV43NTnTMf",
+        "price_id": "price_0P4UV8589O8KAxCGmnZSrr0n",
+        "total_mrr_in_usd": "20.00"
+      },
+      {
+        "product_name": "Wristband App Subscription",
+        "price_nickname": "",
+        "month_end": "2024-05-31",
+        "product_id": "prod_PuJ7xV43NTnTMf",
+        "price_id": "price_0P4UV8589O8KAxCGmnZSrr0n",
+        "total_mrr_in_usd": "20.00"
+      },
+      {
+        "product_name": "Wristband App Subscription",
+        "price_nickname": "",
+        "month_end": "2024-04-30",
+        "product_id": "prod_PuJ7xV43NTnTMf",
+        "price_id": "price_0P4UV8589O8KAxCGmnZSrr0n",
+        "total_mrr_in_usd": "20.00"
+      },
+      {
+        "product_name": "Wristband App Subscription",
+        "price_nickname": "",
+        "month_end": "2024-03-31",
+        "product_id": "prod_PuJ7xV43NTnTMf",
+        "price_id": "price_0P4UV8589O8KAxCGmnZSrr0n",
+        "total_mrr_in_usd": ""
+      },
+      {
+        "product_name": "Wristband App Subscription",
+        "price_nickname": "",
+        "month_end": "2024-02-29",
+        "product_id": "prod_PuJ7xV43NTnTMf",
+        "price_id": "price_0P4UV8589O8KAxCGmnZSrr0n",
+        "total_mrr_in_usd": ""
+      },
+      {
+        "product_name": "Wristband App Subscription",
+        "price_nickname": "",
+        "month_end": "2024-01-31",
+        "product_id": "prod_PuJ7xV43NTnTMf",
+        "price_id": "price_0P4UV8589O8KAxCGmnZSrr0n",
+        "total_mrr_in_usd": ""
+      },
+      {
+        "product_name": "Wristband App Subscription",
+        "price_nickname": "",
+        "month_end": "2023-12-31",
+        "product_id": "prod_PuJ7xV43NTnTMf",
+        "price_id": "price_0P4UV8589O8KAxCGmnZSrr0n",
+        "total_mrr_in_usd": ""
+      },
+      {
+        "product_name": "Subscription example",
+        "price_nickname": "",
+        "month_end": "2025-12-31",
+        "product_id": "prod_RnXGNpeeAZoK9A",
+        "price_id": "price_0QtwBf589O8KAxCGPOC93ykm",
+        "total_mrr_in_usd": "37.50"
+      },
+      {
+        "product_name": "Subscription example",
+        "price_nickname": "",
+        "month_end": "2025-11-30",
+        "product_id": "prod_RnXGNpeeAZoK9A",
+        "price_id": "price_0QtwBf589O8KAxCGPOC93ykm",
+        "total_mrr_in_usd": "37.50"
+      },
+      {
+        "product_name": "Subscription example",
+        "price_nickname": "",
+        "month_end": "2025-10-31",
+        "product_id": "prod_RnXGNpeeAZoK9A",
+        "price_id": "price_0QtwBf589O8KAxCGPOC93ykm",
+        "total_mrr_in_usd": "37.50"
+      },
+      {
+        "product_name": "Subscription example",
+        "price_nickname": "",
+        "month_end": "2025-09-30",
+        "product_id": "prod_RnXGNpeeAZoK9A",
+        "price_id": "price_0QtwBf589O8KAxCGPOC93ykm",
+        "total_mrr_in_usd": "37.50"
+      },
+      {
+        "product_name": "Subscription example",
+        "price_nickname": "",
+        "month_end": "2025-08-31",
+        "product_id": "prod_RnXGNpeeAZoK9A",
+        "price_id": "price_0QtwBf589O8KAxCGPOC93ykm",
+        "total_mrr_in_usd": "37.50"
+      },
+      {
+        "product_name": "Subscription example",
+        "price_nickname": "",
+        "month_end": "2025-07-31",
+        "product_id": "prod_RnXGNpeeAZoK9A",
+        "price_id": "price_0QtwBf589O8KAxCGPOC93ykm",
+        "total_mrr_in_usd": "37.50"
+      },
+      {
+        "product_name": "Subscription example",
+        "price_nickname": "",
+        "month_end": "2025-06-30",
+        "product_id": "prod_RnXGNpeeAZoK9A",
+        "price_id": "price_0QtwBf589O8KAxCGPOC93ykm",
+        "total_mrr_in_usd": "37.50"
+      },
+      {
+        "product_name": "Subscription example",
+        "price_nickname": "",
+        "month_end": "2025-05-31",
+        "product_id": "prod_RnXGNpeeAZoK9A",
+        "price_id": "price_0QtwBf589O8KAxCGPOC93ykm",
+        "total_mrr_in_usd": "37.50"
+      },
+      {
+        "product_name": "Subscription example",
+        "price_nickname": "",
+        "month_end": "2025-04-30",
+        "product_id": "prod_RnXGNpeeAZoK9A",
+        "price_id": "price_0QtwBf589O8KAxCGPOC93ykm",
+        "total_mrr_in_usd": ""
+      },
+      {
+        "product_name": "Subscription example",
+        "price_nickname": "",
+        "month_end": "2025-03-31",
+        "product_id": "prod_RnXGNpeeAZoK9A",
+        "price_id": "price_0QtwBf589O8KAxCGPOC93ykm",
+        "total_mrr_in_usd": ""
+      },
+      {
+        "product_name": "Subscription example",
+        "price_nickname": "",
+        "month_end": "2025-02-28",
+        "product_id": "prod_RnXGNpeeAZoK9A",
+        "price_id": "price_0QtwBf589O8KAxCGPOC93ykm",
+        "total_mrr_in_usd": ""
+      },
+      {
+        "product_name": "Subscription example",
+        "price_nickname": "",
+        "month_end": "2025-01-31",
+        "product_id": "prod_RnXGNpeeAZoK9A",
+        "price_id": "price_0QtwBf589O8KAxCGPOC93ykm",
+        "total_mrr_in_usd": ""
+      },
+      {
+        "product_name": "Subscription example",
+        "price_nickname": "",
+        "month_end": "2024-12-31",
+        "product_id": "prod_RnXGNpeeAZoK9A",
+        "price_id": "price_0QtwBf589O8KAxCGPOC93ykm",
+        "total_mrr_in_usd": ""
+      },
+      {
+        "product_name": "Subscription example",
+        "price_nickname": "",
+        "month_end": "2024-11-30",
+        "product_id": "prod_RnXGNpeeAZoK9A",
+        "price_id": "price_0QtwBf589O8KAxCGPOC93ykm",
+        "total_mrr_in_usd": ""
+      },
+      {
+        "product_name": "Subscription example",
+        "price_nickname": "",
+        "month_end": "2024-10-31",
+        "product_id": "prod_RnXGNpeeAZoK9A",
+        "price_id": "price_0QtwBf589O8KAxCGPOC93ykm",
+        "total_mrr_in_usd": ""
+      },
+      {
+        "product_name": "Subscription example",
+        "price_nickname": "",
+        "month_end": "2024-09-30",
+        "product_id": "prod_RnXGNpeeAZoK9A",
+        "price_id": "price_0QtwBf589O8KAxCGPOC93ykm",
+        "total_mrr_in_usd": ""
+      },
+      {
+        "product_name": "Subscription example",
+        "price_nickname": "",
+        "month_end": "2024-08-31",
+        "product_id": "prod_RnXGNpeeAZoK9A",
+        "price_id": "price_0QtwBf589O8KAxCGPOC93ykm",
+        "total_mrr_in_usd": ""
+      },
+      {
+        "product_name": "Subscription example",
+        "price_nickname": "",
+        "month_end": "2024-07-31",
+        "product_id": "prod_RnXGNpeeAZoK9A",
+        "price_id": "price_0QtwBf589O8KAxCGPOC93ykm",
+        "total_mrr_in_usd": ""
+      },
+      {
+        "product_name": "Subscription example",
+        "price_nickname": "",
+        "month_end": "2024-06-30",
+        "product_id": "prod_RnXGNpeeAZoK9A",
+        "price_id": "price_0QtwBf589O8KAxCGPOC93ykm",
+        "total_mrr_in_usd": ""
+      },
+      {
+        "product_name": "Subscription example",
+        "price_nickname": "",
+        "month_end": "2024-05-31",
+        "product_id": "prod_RnXGNpeeAZoK9A",
+        "price_id": "price_0QtwBf589O8KAxCGPOC93ykm",
+        "total_mrr_in_usd": ""
+      },
+      {
+        "product_name": "Subscription example",
+        "price_nickname": "",
+        "month_end": "2024-04-30",
+        "product_id": "prod_RnXGNpeeAZoK9A",
+        "price_id": "price_0QtwBf589O8KAxCGPOC93ykm",
+        "total_mrr_in_usd": ""
+      },
+      {
+        "product_name": "Subscription example",
+        "price_nickname": "",
+        "month_end": "2024-03-31",
+        "product_id": "prod_RnXGNpeeAZoK9A",
+        "price_id": "price_0QtwBf589O8KAxCGPOC93ykm",
+        "total_mrr_in_usd": ""
+      },
+      {
+        "product_name": "Subscription example",
+        "price_nickname": "",
+        "month_end": "2024-02-29",
+        "product_id": "prod_RnXGNpeeAZoK9A",
+        "price_id": "price_0QtwBf589O8KAxCGPOC93ykm",
+        "total_mrr_in_usd": ""
+      },
+      {
+        "product_name": "Subscription example",
+        "price_nickname": "",
+        "month_end": "2024-01-31",
+        "product_id": "prod_RnXGNpeeAZoK9A",
+        "price_id": "price_0QtwBf589O8KAxCGPOC93ykm",
+        "total_mrr_in_usd": ""
+      },
+      {
+        "product_name": "Subscription example",
+        "price_nickname": "",
+        "month_end": "2023-12-31",
+        "product_id": "prod_RnXGNpeeAZoK9A",
+        "price_id": "price_0QtwBf589O8KAxCGPOC93ykm",
+        "total_mrr_in_usd": ""
+      }
+    ],
+    "columns": [
+      "product_name",
+      "price_nickname",
+      "month_end",
+      "product_id",
+      "price_id",
+      "total_mrr_in_usd"
+    ],
+    "pivot": {
+      "colKey": "month_end",
+      "valueKey": "total_mrr_in_usd",
+      "groupKey": "price_nickname"
+    }
+  }
