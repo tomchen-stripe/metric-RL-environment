@@ -26,9 +26,6 @@ NOTE: For the explorer, I needed to mount `/pay` to get `claude` working in the 
 ```
 sudo systemctl restart containerd
 sudo systemctl restart docker
-
-docker compose up --build -d
-docker exec -it explorer bash
 ```
 
 3. Run docker compose and exec into the "explorer" container:
