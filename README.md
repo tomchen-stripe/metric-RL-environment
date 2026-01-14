@@ -11,7 +11,7 @@ This project sets up a reinforcement learning (RL) environment for an AI agent l
 
 Both the explorer and validator run in their own docker container to isolate them from finding a way to access the answers (Sigma Template for MRR).
 
-NOTE: For the explorer, I needed to mount `/pay` to get `claude` working in the docker container, but I added instructions in `CLAUDE.md` to prevent it from accessing `/pay`. You can also verify in Claude logs that it does not access that repo.
+NOTE: For the explorer, I needed to mount `/pay` for `claude` to work in the docker container (it needs access to `sc-2fa`), but I added instructions in `CLAUDE.md` to prevent it from accessing `/pay`. You can also verify in Claude logs that it does not access that repo.
 
 ## Installation
 
