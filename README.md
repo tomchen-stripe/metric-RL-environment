@@ -3,15 +3,15 @@
 This project sets up a reinforcement learning (RL) environment for an AI agent like Claude Code to reverse engineer how Stripe calculates a metric like MRR using two isolated containers:
 
 1. The "explorer" which has access to:
-   - a requirements prompt (explorer/prompts/mrr.md)
-   - sigma client to query Sigma API (sigma_client.rb)
-   - sigma table schemas (sigma_table_schemas.json)
-   - a prompt describing the requirements for the metric (explorer/prompts/mrr.md)
+   - a requirements prompt ([explorer/prompts/mrr.md](explorer/prompts/mrr.md))
+   - sigma client to query Sigma API ([sigma_client.rb](explorer/sigma_client.rb))
+   - sigma table schemas ([sigma_table_schemas.json](explorer/sigma_table_schemas.json))
+   - a prompt describing the requirements for the metric ([explorer/prompts/mrr.md](explorer/prompts/mrr.md))
 2. The "validator" that returns pass/fail to the explorer based on whether the SQL query that it is coming up with matches the results Stripe returns from Sigma Templates and Sigma API
 
-Both the explorer and validator run in their own docker container to isolate them from finding a way to access the answers (Sigma Template for MRR) some how.
+Both the explorer and validator run in their own docker container to isolate them from finding a way to access the answers (Sigma Template for MRR).
 
-NOTE: For the explorer, I needed to mount `/pay` to get `claude` working in the docker container, but I added instructions in `CLAUDE.md` for it to not access `/pay`. You can also verify in Claude logs that it does not access that repo.
+NOTE: For the explorer, I needed to mount `/pay` to get `claude` working in the docker container, but I added instructions in `CLAUDE.md` to prevent it from accessing `/pay`. You can also verify in Claude logs that it does not access that repo.
 
 ## Installation
 
@@ -51,9 +51,12 @@ claude --dangerously-skip-permissions
 
 The agent is able to reverse engineer our most complex Sigma Template (MRR) in about 10 minutes and match the returned values exactly. The SQL design is semantically very close to how we define it.
 
-Agent discovered MRR SQL: 
+Agent discovered MRR SQL:
 
-```
+<details>
+<summary>Click to expand SQL</summary>
+
+```sql
 -- MRR (Monthly Recurring Revenue) Query
 -- Requirements:
 -- - Support local merchant timezone (using local_event_timestamp)
@@ -229,10 +232,16 @@ ORDER BY
   month_end DESC
 ```
 
+</details>
+
 vs
 
-Stripe defined Sigma Template for MRR
-```
+Stripe defined Sigma Template for MRR:
+
+<details>
+<summary>Click to expand SQL</summary>
+
+```sql
 WITH sparse_mrr_changes AS (
           SELECT
             DATE_TRUNC(
@@ -355,3 +364,5 @@ WITH sparse_mrr_changes AS (
           date DESC;
 
 ```
+
+</details>
