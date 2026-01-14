@@ -15,6 +15,8 @@ NOTE: For the explorer, I needed to mount `/pay` for `claude` to work in the doc
 
 ## Installation
 
+0. git clone this repo onto a devbox
+
 1. Add a STRIPE_API_KEY to `explorer/.env` with these API permissions:
 
 - Sigma API: write
